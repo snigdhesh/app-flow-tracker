@@ -1,0 +1,8 @@
+accepted:
+  headers:
+    - interaction-id
+    - channel-id
+    - work-flow-id
+    - activity-id
+    - origin-app-id
+    - application-id
